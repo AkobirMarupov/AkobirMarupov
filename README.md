@@ -1,4 +1,6 @@
-## Hi there 👋
+## Akobir Marupov
+______________________________________________________________________________________________________________________________________
+I am a Python developer, well-versed in generators, decorators, asynchronous programming, and data structures. Due to my experience with C++, I write efficient and optimized code. I have worked with Django and FastAPI, creating clean, modular, and easy-to-read code.
 
 <!--
 **AkobirMarupov/AkobirMarupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
