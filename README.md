@@ -14,27 +14,11 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________
  ## Additional Skills
  
-Languages: 
-Databases: 
-Version Control: 
-Other Tools: 
-
-
-### 🛠️ Qo'shimcha Ko'nikmalar
-
--   *Dasturlash Tillari:*
-    [Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Languages: [Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
     [C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
--   *Ma'lumotlar Bazasiga Ishlov Berish:*
-    [PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-    [PgAdmin](https://img.shields.io/badge/PgAdmin-41A8FF?style=flat&logo=postgresql&logoColor=white) <!-- PgAdmin uchun PostgreSQL logosidan foydalanildi, chunki u PostgreSQLni boshqarish vositasi -->
-
--   *Versiyani Boshqarish:*
-    [Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+Databases: [PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+    [PgAdmin](https://img.shields.io/badge/PgAdmin-41A8FF?style=flat&logo=postgresql&logoColor=white)
+Version Control: [Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
     [GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+Other Tools: [Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
--   *API va Boshqa Vositalar:*
-    [Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-    <!-- Agarda Postman ham kerak bo'lsa, quyidagini qo'shishingiz mumkin: -->
-    <!-- [Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) -->
