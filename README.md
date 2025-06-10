@@ -6,9 +6,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 🌐 Socials:
 
-## Socials:
-
-[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="64" height="32">](https://www.linkedin.com/in/[[sizning_profil_nomingiz](https://www.linkedin.com/in/akobir-marupov-ab0b5b309/)])
-[<img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram" width="64" height="32">](https://t.me/[yourusername](https://t.me/akobir_marupov))
-[<img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram" width="64" height="32">](https://www.instagram.com/[yourusername](https://www.instagram.com/akobir_marupov?igsh=MTlkeXpncW9kejVqbg==))
-[<img src="https://cdn-icons-png.flaticon.com/128/733/733646.png" alt="YouTube" width="64" height="32">](https://www.youtube.com/@[yourusername](https://www.youtube.com/@akobir_marupov))
+[<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="42" height="42">](https://www.linkedin.com/in/[[sizning_profil_nomingiz](https://www.linkedin.com/in/akobir-marupov-ab0b5b309/)])
+[<img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" alt="Telegram" width="42" height="42">](https://t.me/[yourusername](https://t.me/akobir_marupov))
+[<img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="Instagram" width="42" height="42">](https://www.instagram.com/[yourusername](https://www.instagram.com/akobir_marupov?igsh=MTlkeXpncW9kejVqbg==))
+[<img src="https://cdn-icons-png.flaticon.com/128/733/733646.png" alt="YouTube" width="42" height="42">](https://www.youtube.com/@[yourusername](https://www.youtube.com/@akobir_marupov))
